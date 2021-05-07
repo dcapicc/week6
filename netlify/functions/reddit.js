@@ -26,7 +26,6 @@ console.log(json)
   // Create a new Array to be returned by the API
 let redditData = []
 
-
   // Loop through the posts, for each one:
 for (let x = 0; x < json.items.length; x++) {  
   
